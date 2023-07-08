@@ -1,6 +1,6 @@
 # A Neovim Plugin Template
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ellisonleao/nvim-plugin-template/default.yml?branch=main&style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/keevan/nvim-plugin-template/default.yml?branch=main&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Made%20with%20Lua-blueviolet.svg?style=for-the-badge&logo=lua)
 
 A template repository for Neovim plugins.
@@ -43,3 +43,7 @@ Click on `Use this template`
 │   └── plugin_name
 │       └── plugin_name_spec.lua
 ```
+
+## Acknowledgements
+
+- Plugin bootstrapped from [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template)
